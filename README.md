@@ -16,7 +16,7 @@ The latest version of the library can be downloaded from the [Latest Release Pag
 ## Usage ##
 Add the following to your applications configuration file:
 
-``xml
+``
   <configSections>
     <section name="trosi" type="Trosi.Configuration.TrosiConfigurationSection, Trosi" />
   </configSections>
@@ -24,7 +24,7 @@ Add the following to your applications configuration file:
 
 And
 
-``xml
+``
     <trosi clientId="YOUR-CLIENT-ID" clientSecret="YOUR-CLIENT-SECRET" />
 ``
 
